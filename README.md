@@ -1,2 +1,2 @@
 # backUpOnTheWayBackMachine4Python3
-For Backing Up using The Wayback Machine (Requires Python 3, but otherwise is Multiplatform)
+For backing up a single video's annotations using The Wayback Machine (Requires Python 3, but is otherwise Multiplatform)
